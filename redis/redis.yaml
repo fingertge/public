@@ -1,0 +1,17 @@
+addrs:
+  - 192.168.31.28:6003
+  - 192.168.31.28:6001
+  - 192.168.31.28:6002
+clientname: xxxx
+username: admin
+password: 19931207cjj@
+dialtimeout: 5s
+readtimeout: 3s
+writetimeout: 3s
+poolsize: 20
+pooltimeout: 3s
+minidleconns: 5
+maxidleconns: 20
+connmaxidletime: 10s
+connmaxlifetime: 10s
+
