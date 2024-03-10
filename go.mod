@@ -1,4 +1,4 @@
-module github.com/caijunjun/public
+module github.com/fingertge/public
 
 go 1.21.3
 
