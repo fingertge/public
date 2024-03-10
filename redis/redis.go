@@ -14,7 +14,7 @@
 package redis
 
 import (
-	"github.com/caijunjun/fingertge/tools"
+	"github.com/fingertge/public/tools"
 	redis2 "github.com/gomodule/redigo/redis"
 )
 
