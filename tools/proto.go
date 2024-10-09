@@ -32,4 +32,5 @@ func NewProtoMessage(name string) (proto.Message, error) {
 		return nil, nil
 	}
 	return m.New().Interface(), nil
+
 }
